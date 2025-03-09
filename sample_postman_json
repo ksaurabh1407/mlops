@@ -1,0 +1,15 @@
+{
+
+
+    "Age": 24.0,
+    "SibSp": 0,
+    "Parch": 0,
+    "Sex_female": true,
+    "Sex_male": false,
+    "Pclass_Lower": true,
+    "Pclass_Middle": false,
+    "Pclass_Upper": true,
+    "Embarked_C": true,
+    "Embarked_Q": false,
+    "Embarked_S": false
+}
